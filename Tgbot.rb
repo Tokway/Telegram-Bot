@@ -1,7 +1,7 @@
 #coding: UTF-8
 require 'telegram/bot'
 
-TOKEN = '5787784103:AAFiwqiFz1THL0-HryGVigE5FehKvlqQ3wY'
+TOKEN = '*Тут маэ бути токен, але бот вже працюе на Heroku та не хочу цей самий token засвітити)*'
 
 ANSWERS = [
     # Позитивні 
